@@ -1,0 +1,17 @@
+0.0.0.0 gazetaolsztynska.push-ad.com
+0.0.0.0 app2.push-api.pl
+0.0.0.0 webpush.wp.pl
+0.0.0.0 cdn.pushpushgo.com
+0.0.0.0 s-eu-1.pushpushgo.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 lib.wtg-ads.com
+0.0.0.0 sync.richaudience.com
+0.0.0.0 at.teads.tv
+0.0.0.0 jscdn.yieldbird.com
+0.0.0.0 cdn.qwtag.com
+0.0.0.0 justid.io
+0.0.0.0 z-m-gateway.facebook.com
+0.0.0.0 region1.app-measurement.com
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 lookaside.facebook.com
