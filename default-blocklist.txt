@@ -19,7 +19,7 @@
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 cdn.qwtag.com
 0.0.0.0 justid.io
-||mtalk.google.com^
+0.0.0.0 mtalk.google.com
 0.0.0.0 z-m-gateway.facebook.com
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 graph-fallback.facebook.com
