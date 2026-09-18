@@ -14,6 +14,7 @@
 0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 pai.googlezip.net
 0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
+||prod.service.minerva.devices.a2z.com^
 
 # Canal+ decoder
 0.0.0.0 nrdp51-appboot.netflix.com
